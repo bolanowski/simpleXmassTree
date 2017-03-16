@@ -3,7 +3,7 @@ package com.pgs.javadev;
 import java.util.Scanner;
 
 /**
- * Created by andrzej on 15.03.17.
+ * Created by andrzej on 15.03.17
  */
 public class Main {
 
